@@ -2,6 +2,9 @@ package SortAlgorithm;
 
 import java.util.Arrays;
 
+/**
+ * 稳定
+ */
 public class BubbleSort {
 
     public static void bubbleSort(int[] arr){

@@ -1,5 +1,8 @@
 package SortAlgorithm;
 
+/**
+ * 不稳定
+ */
 public class SelectionSort {
     //每次从未排序部分选择最小元素，放到已排序部分的末尾
     public static void selectionSort(int[] arr){
